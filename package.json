@@ -1,0 +1,23 @@
+{
+  "name": "ronitca",
+  "version": "1.0.0",
+  "description": "Ronitca POS System",
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajithaFernando/ronitca_sopento.git"
+  },
+  "author": "Rajitha Fernando",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RajithaFernando/ronitca_sopento/issues"
+  },
+  "homepage": "https://github.com/RajithaFernando/ronitca_sopento#readme"
+}

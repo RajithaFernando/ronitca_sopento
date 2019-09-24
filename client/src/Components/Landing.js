@@ -10,7 +10,7 @@ class Landing extends Component {
             <div style={{ background: 'black' }}>
                 <div>
                     <Container fluid>
-                        <h1 className="display-3">Fluid jumbotron</h1>
+                        <h1 className="display-3">RONITCA SOPENTO</h1>
                     </Container>
                 </div>
                 <Container>
@@ -18,7 +18,7 @@ class Landing extends Component {
                         <Col xs="6" sm="4">
                             <div className="p-3 my-2 rounded" style={{ background: '#E76A19' }}>
                                 <Toast>
-                                    <ToastHeader><h4>USERS</h4></ToastHeader>
+                                    <ToastHeader><h4>Registrations</h4></ToastHeader>
                                     <ToastBody>
                                     <h6>Manage All users</h6> 
                                     </ToastBody>
