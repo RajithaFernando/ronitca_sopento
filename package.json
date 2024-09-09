@@ -4,7 +4,7 @@
   "description": "Ronitca POS System",
   "main": "index.js",
   "dependencies": {
-    "react-router-dom": "^5.0.1"
+    "react-router-dom": "^6.26.2"
   },
   "devDependencies": {},
   "scripts": {
